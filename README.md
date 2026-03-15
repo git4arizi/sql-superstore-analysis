@@ -38,6 +38,4 @@ Business insights derived from the SQL analysis.
 - Data exploration
 - Business insight generation
 
-- ## 📊 Dashboard Preview
 
-![Superstore Dashboard](visualisations/dashboard_preview.png)
